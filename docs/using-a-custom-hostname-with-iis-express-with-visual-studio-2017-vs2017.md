@@ -5,7 +5,7 @@ reference
 
 ## Setup
 
-
+Run you VS2017 as Administrator
 applicationhost.config is located in the following location;
 ```
 ../src/.vs/config/applicationhost.config
